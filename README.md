@@ -1,7 +1,7 @@
 # drama-dailymotion-downloader
-擁有 dailymotion 的 drama/連續劇網站下載器  
+擁有 dailymotion 的 drama/連續劇網站批量下載器  
 
-複製鏈接，然後自定義下載第幾集的i連續劇視頻, 適用於 https://dramaq.de/ 和 https://journalflash.com/ 之類擁有 Dailymotion 源的網站。除了主題，也可以下載其它網站視頻例如 YouTube。
+複製鏈接，然後自定義下載第幾集的連續劇視頻, 適用於 https://dramaq.de/ 和 https://journalflash.com/ 之類擁有 Dailymotion 源的網站。除了主題，也可以下載其它網站視頻例如 YouTube。
 
 #### 圖形界面:
 Windows-64 bit 用戶可以下載 "win 64 dailymotion drama 連續劇下載器.zip", 解壓縮後， 雙擊 "dailymotion 連續劇下載器.exe" 文件執行。請確保附件 ffmpeg 在同一個目錄。 
