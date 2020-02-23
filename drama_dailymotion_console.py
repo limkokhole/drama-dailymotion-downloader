@@ -85,6 +85,9 @@ def main(arg_dir, arg_from_ep, arg_to_ep, arg_url, custom_stdout, arg_any_websit
             print('網址參數: ' + repr(arg_url))
             quit('[!] [e1] 請輸入網址參數, 例子： https://dramaq.de/cn191023b/。 中止。')
 
+        if not arg_dir:
+            quit('[!] 請用 `-d DIR` 參數輸入目錄路徑。中止。')
+
         dir_path_m = os.path.abspath(arg_dir)
         if not os.path.isdir(dir_path_m):
             try:
@@ -114,9 +117,6 @@ def main(arg_dir, arg_from_ep, arg_to_ep, arg_url, custom_stdout, arg_any_websit
             if not arg_to_ep:
                 quit('[!] 請用 `--to-ep N` 參數輸入下載到第幾集停止。 中止。')
             arg_to_ep+=1
-
-            if not arg_dir:
-                quit('[!] 請用 `-d DIR` 參數輸入目錄路徑。中止。')
 
             http_headers = {
                 'User-Agent': UA
