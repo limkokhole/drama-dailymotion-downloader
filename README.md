@@ -11,9 +11,9 @@ Windows-64 bit 用戶可以下載 "win 64 dailymotion drama 連續劇下載器.z
 #### 命令行界面:
 請自行參考 `python drama_dailymotion_console.py --help`。
 
-例子1: python3 drama_dailymotion_console.py https://dramaq.de/cn191023b --from-ep 1 -to-ep 5
-例子2: python3 drama_dailymotion_console.py https://journalflash.com/cn191023b/18.html#3 --from-ep 36 -to-ep 36
-例子3: python3 drama_dailymotion_console.py https://www.youtube.com/watch?v=H_nL7WOehhQ -any
+例子1: python3 drama_dailymotion_console.py https://dramaq.de/cn191023b --from-ep 1 -to-ep 5  
+例子2: python3 drama_dailymotion_console.py https://journalflash.com/cn191023b/18.html#3 --from-ep 36 -to-ep 36  
+例子3: python3 drama_dailymotion_console.py https://www.youtube.com/watch?v=H_nL7WOehhQ -any  
 
 #### 注意事項:
 
