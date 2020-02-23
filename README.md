@@ -6,7 +6,7 @@
 #### 圖形界面:
 Windows-64 bit 用戶可以下載 "win 64 dailymotion drama 連續劇下載器.zip", 解壓縮後， 雙擊 "dailymotion 連續劇下載器.exe" 文件執行。請確保附件 ffmpeg 在同一個目錄。 
 
-命令行愛好者也可以 python drama_dailymotion_gui.py 打開。
+命令行愛好者也可以 python drama_dailymotion_gui.py 打開， 但請確保安裝了 youtube_dl python 庫。
 
 #### 命令行界面:
 請自行參考 `python drama_dailymotion_console.py --help`。
