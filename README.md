@@ -23,4 +23,4 @@ Windows-64 bit 用戶可以下載 "win 64 dailymotion drama 連續劇下載器.z
 
 #### 示範視頻 (點擊圖片會在 YouTube 打開):
 
-[![watch in youtube](https://i.ytimg.com/vi/xxx/hqdefault.jpg)](https://www.youtube.com/watch?v=xxx "獨播庫下載器")
+[![watch in youtube](https://i.ytimg.com/vi/uRGLsl4pPUk/hqdefault.jpg)](https://www.youtube.com/watch?v=uRGLsl4pPUk "Dailymotion Drama 連續劇下載器")
