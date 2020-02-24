@@ -42,7 +42,6 @@ import base64
 import youtube_dl
 
 import requests
-from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 
 # Jan 2020, Google will unify UA in future, good news :D
